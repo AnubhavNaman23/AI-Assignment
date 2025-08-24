@@ -268,12 +268,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ Created comprehensive documentation
 - ✅ Followed industry best practices
 
-## 🔗 Connect
-
-- **Portfolio**: [Your Portfolio](https://yourportfolio.com)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@example.com
-
 ## 🙏 Acknowledgments
 
 - Thanks to the open-source community
@@ -283,3 +277,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository if you found it helpful!**
+
